@@ -21,6 +21,8 @@ entity Product {
 }
 
 entity StoreProduct {
+  *id : string
+  --
   *product_id : string
   *store_id : string
 }
