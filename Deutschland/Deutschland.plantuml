@@ -27,9 +27,10 @@ package Deutschland {
     }
     
     class ProduktVorOrt {
+        *id: int
+        --
         *produktID: int
         *filialID: int
-        --
         bestand: int
     }
     
