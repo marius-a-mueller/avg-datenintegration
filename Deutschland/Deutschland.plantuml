@@ -27,6 +27,7 @@ package Deutschland {
     
     class ProduktVorOrt {
         *produktID: int
+        *filialID: int
 --
         bestand: int
     }
@@ -38,9 +39,12 @@ package Deutschland {
         manager: string
         oeffnungszeiten: string
     }
+
+Produkt "1" -right- "*" ProduktVorOrt 
+Filiale "1" -left- "*" ProduktVorOrt 
 Mitarbeiter --o Filiale : arbeitetIn
-Produkt <-- ProduktVorOrt : istVorOrt
 Produkt --o Steuersatz : arbeitetIn
+
 
 }
 @enduml
