@@ -39,14 +39,17 @@
     ],
     "produktVorOrt": [
       {
+        "id": 1,
         "bestand": 100,
         "produktID": 235
       },
       {
+        "id": 2,
         "bestand": 200,
         "produktID": 236
       },
       {
+        "id": 3,
         "bestand": 300,
         "produktID": 237
       }
@@ -84,14 +87,17 @@
     ],
     "produktVorOrt": [
       {
+        "id": 4,
         "bestand": 65,
         "produktID": 237
       },
       {
+        "id": 5,
         "bestand": 37,
         "produktID": 238
       },
       {
+        "id": 6,
         "bestand": 133,
         "produktID": 239
       }
@@ -129,14 +135,17 @@
     ],
     "produktVorOrt": [
       {
+        "id": 7,
         "bestand": 69,
         "produktID": 237
       },
       {
+        "id": 8,
         "bestand": 20,
         "produktID": 239
       },
       {
+        "id": 9,
         "bestand": 304,
         "produktID": 242
       }
@@ -174,14 +183,17 @@
     ],
     "produktVorOrt": [
       {
+        "id": 10,
         "bestand": 214,
         "produktID": 240
       },
       {
+        "id": 11,
         "bestand": 128,
         "produktID": 241
       },
       {
+        "id": 12,
         "bestand": 74,
         "produktID": 235
       }
@@ -219,14 +231,17 @@
     ],
     "produktVorOrt": [
       {
+        "id": 13,
         "bestand": 47,
         "produktID": 236
       },
       {
+        "id": 14,
         "bestand": 18,
         "produktID": 242
       },
       {
+        "id": 15,
         "bestand": 99,
         "produktID": 240
       }
@@ -264,14 +279,17 @@
     ],
     "produktVorOrt": [
       {
+        "id": 16,
         "bestand": 32,
         "produktID": 238
       },
       {
+        "id": 17,
         "bestand": 98,
         "produktID": 244
       },
       {
+        "id": 18,
         "bestand": 77,
         "produktID": 237
       }
@@ -309,14 +327,17 @@
     ],
     "produktVorOrt": [
       {
+        "id": 19,
         "bestand": 87,
         "produktID": 241
       },
       {
+        "id": 20,
         "bestand": 90,
         "produktID": 235
       },
       {
+        "id": 21,
         "bestand": 190,
         "produktID": 245
       }
@@ -354,14 +375,17 @@
     ],
     "produktVorOrt": [
       {
+        "id": 22,
         "bestand": 56,
         "produktID": 238
       },
       {
+        "id": 23,
         "bestand": 44,
         "produktID": 243
       },
       {
+        "id": 24,
         "bestand": 321,
         "produktID": 241
       }
@@ -407,14 +431,17 @@
     ],
     "produktVorOrt": [
       {
+        "id": 25,
         "bestand": 12,
         "produktID": 239
       },
       {
+        "id": 26,
         "bestand": 40,
         "produktID": 238
       },
       {
+        "id": 27,
         "bestand": 144,
         "produktID": 240
       }
@@ -444,14 +471,17 @@
     ],
     "produktVorOrt": [
       {
+        "id": 28,
         "bestand": 330,
         "produktID": 239
       },
       {
+        "id": 29,
         "bestand": 230,
         "produktID": 235
       },
       {
+        "id": 30,
         "bestand": 34,
         "produktID": 242
       }
