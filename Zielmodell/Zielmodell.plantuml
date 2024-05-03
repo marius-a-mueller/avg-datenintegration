@@ -64,9 +64,9 @@ package Zielmodell {
 Produkt "1" -right- "*" ProduktVorOrt : istVorOrt
 Filiale "1" -left- "*" ProduktVorOrt : hatVorOrt
 Mitarbeiter "*" --o "1" Filiale : arbeitetIn
-Produkt "*" --o "1" Steuersatz : arbeitetIn
+Produkt "*" --o "1" Steuersatz : hat
 Filiale "1" -- "1" Adresse : hatSitzIn
-Lieferant "1" -- "1" Adresse : hatSitzIn
+Lieferant "1" -right- "1" Adresse : hatSitzIn
 Filiale "*" -- "1" Lieferant : hatLieferanten
 
 }

@@ -43,7 +43,7 @@ package Deutschland {
 Produkt "1" -right- "*" ProduktVorOrt : hat
 Filiale "1" -left- "*" ProduktVorOrt : istIn
 Mitarbeiter "*" --o "1" Filiale : arbeitetIn
-Produkt "*" --o "1" Steuersatz : arbeitetIn
+Produkt "*" --o "1" Steuersatz : hat
 
 
 }
