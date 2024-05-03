@@ -1,6 +1,5 @@
 @startuml en
 
-
 entity Employee {
   *id : string
   --

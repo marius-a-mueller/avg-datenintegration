@@ -1,0 +1,73 @@
+@startuml Zielmodell
+package Zielmodell {
+    class Mitarbeiter {
+        *id: int
+        --
+        name: string
+        position: string
+        mitarbeiterSeit: date
+        gehalt: float
+        email: string
+        telefonNummer: string
+        filialID: int
+    }
+    
+    class Produkt {
+        *id: int
+        --
+        name: string
+        kategorie: string
+        preis: float
+    }
+    
+    class Steuersatz {
+        *id: int
+        --
+        kategorie: string
+        steuersatz: float
+    }
+    
+    class ProduktVorOrt {
+        *produktID: int
+        *filialID: int
+        --
+        bestand: int
+    }
+    
+    class Filiale {
+        *id: int
+        --
+        manager: string
+        oeffnungszeiten: string
+        adresseID: int
+        lieferantenID: int
+    }
+
+    class Adresse {
+        *id: int
+        --
+        strasse: string
+        hausnummer: string
+        plz: string
+        *ort: string
+    }
+
+    class Lieferant {
+        *id: int
+        --
+        name: string
+        kontaktEmail: string
+        telefonNummer: string
+        adresseID: int
+    }
+
+Produkt "1" -right- "*" ProduktVorOrt : istVorOrt
+Filiale "1" -left- "*" ProduktVorOrt : hatVorOrt
+Mitarbeiter "*" --o "1" Filiale : arbeitetIn
+Produkt "*" --o "1" Steuersatz : arbeitetIn
+Filiale "1" -- "1" Adresse : hatSitzIn
+Lieferant "1" -- "1" Adresse : hatSitzIn
+Filiale "*" -- "1" Lieferant : hatLieferanten
+
+}
+@enduml
