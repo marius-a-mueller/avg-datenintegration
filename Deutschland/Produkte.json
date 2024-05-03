@@ -1,0 +1,112 @@
+[
+  {
+    "produktID": 235,
+    "name": "Milch",
+    "kategorie": "Lebensmittel",
+    "preis": 1.2,
+    "steuersatz": {
+      "steuersatzID": 1,
+      "kategorie": "Lebensmittel",
+      "steuersatz": 19.0
+    }
+  },
+  {
+    "produktID": 236,
+    "name": "Brot",
+    "kategorie": "Lebensmittel",
+    "preis": 2.5,
+    "steuersatz": {
+      "steuersatzID": 1,
+      "kategorie": "Lebensmittel",
+      "steuersatz": 19.0
+    }
+  },
+  {
+    "produktID": 237,
+    "name": "Käse",
+    "kategorie": "Lebensmittel",
+    "preis": 3.5,
+    "steuersatz": {
+      "steuersatzID": 1,
+      "kategorie": "Lebensmittel",
+      "steuersatz": 19.0
+    }
+  },
+  {
+    "produktID": 238,
+    "name": "Butter",
+    "kategorie": "Lebensmittel",
+    "preis": 1.5,
+    "steuersatz": {
+      "steuersatzID": 1,
+      "kategorie": "Lebensmittel",
+      "steuersatz": 19.0
+    }
+  },
+  {
+    "produktID": 239,
+    "name": "Wurst",
+    "kategorie": "Lebensmittel",
+    "preis": 2.0,
+    "steuersatz": {
+      "steuersatzID": 1,
+      "kategorie": "Lebensmittel",
+      "steuersatz": 19.0
+    }
+  },
+  {
+    "produktID": 240,
+    "name": "Toilettenpapier",
+    "kategorie": "Hygiene",
+    "preis": 4.0,
+    "steuersatz": {
+      "steuersatzID": 2,
+      "kategorie": "Hygiene",
+      "steuersatz": 7.0
+    }
+  },
+  {
+    "produktID": 241,
+    "name": "Seife",
+    "kategorie": "Hygiene",
+    "preis": 1.5,
+    "steuersatz": {
+      "steuersatzID": 2,
+      "kategorie": "Hygiene",
+      "steuersatz": 7.0
+    }
+  },
+  {
+    "produktID": 242,
+    "name": "Shampoo",
+    "kategorie": "Hygiene",
+    "preis": 3.0,
+    "steuersatz": {
+      "steuersatzID": 2,
+      "kategorie": "Hygiene",
+      "steuersatz": 7.0
+    }
+  },
+  {
+    "produktID": 243,
+    "name": "Duschgel",
+    "kategorie": "Hygiene",
+    "preis": 2.5,
+    "steuersatz": {
+      "steuersatzID": 2,
+      "kategorie": "Hygiene",
+      "steuersatz": 7.0
+    }
+  },
+  {
+    "produktID": 244,
+    "name": "Zahnpasta",
+    "kategorie": "Hygiene",
+    "preis": 2.0,
+    "steuersatz": {
+      "steuersatzID": 2,
+      "kategorie": "Hygiene",
+      "steuersatz": 7.0
+    }
+  }
+]
