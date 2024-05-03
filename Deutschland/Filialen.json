@@ -4,6 +4,7 @@
     "standort": "Hamburg",
     "oeffnungszeiten": "Mo-Sa 8-18 Uhr",
     "manager": {
+      "mitarbeiterID": 12,
       "name": "Max Schmidt",
       "position": "Filialleiter",
       "mitarbeiterSeit": "01.01.2004",
@@ -12,6 +13,7 @@
     },
     "mitarbeiter": [
       {
+        "mitarbeiterID": 143,
         "name": "Erika Stuss",
         "position": "Kasse",
         "mitarbeiterSeit": "01.01.2014",
@@ -19,6 +21,7 @@
         "email": "erika.stuss@filiale.de"
       },
       {
+        "mitarbeiterID": 65,
         "name": "Hans Glück",
         "position": "Lager",
         "mitarbeiterSeit": "01.01.2011",
@@ -26,6 +29,7 @@
         "email": "hans.glück@filiale.de"
       },
       {
+        "mitarbeiterID": 162,
         "name": "Gabi Yilmaz",
         "position": "Regale auffüllen",
         "mitarbeiterSeit": "01.01.2012",
@@ -39,6 +43,7 @@
     "standort": "Berlin",
     "oeffnungszeiten": "Mo-Sa 8-23 Uhr",
     "manager": {
+      "mitarbeiterID": 22,
       "name": "Bill Smith",
       "position": "Filialleiter",
       "mitarbeiterSeit": "01.01.2011",
@@ -47,6 +52,7 @@
     },
     "mitarbeiter": [
       {
+        "mitarbeiterID": 92,
         "name": "Franziska Mayer",
         "position": "Kasse",
         "mitarbeiterSeit": "01.01.2012",
@@ -54,6 +60,7 @@
         "email": "franziska.mayer@filiale.de"
       },
       {
+        "mitarbeiterID": 982,
         "name": "Franziskus Müller",
         "position": "Allround",
         "mitarbeiterSeit": "01.01.2010",
@@ -67,6 +74,7 @@
     "standort": "München",
     "oeffnungszeiten": "Mo-Sa 9-20 Uhr",
     "manager": {
+      "mitarbeiterID": 912,
       "name": "Sabine Huber",
       "position": "Filialleiter",
       "mitarbeiterSeit": "01.01.2008",
@@ -75,6 +83,7 @@
     },
     "mitarbeiter": [
       {
+        "mitarbeiterID": 655,
         "name": "Andreas Bauer",
         "position": "Kasse",
         "mitarbeiterSeit": "01.01.2015",
@@ -82,6 +91,7 @@
         "email": "andreas.bauer@filiale.de"
       },
       {
+        "mitarbeiterID": 42,
         "name": "Karin Fischer",
         "position": "Regale auffüllen",
         "mitarbeiterSeit": "01.01.2016",
@@ -95,6 +105,7 @@
     "standort": "Köln",
     "oeffnungszeiten": "Mo-Sa 7-22 Uhr",
     "manager": {
+      "mitarbeiterID": 41,
       "name": "Anna Müller",
       "position": "Filialleiter",
       "mitarbeiterSeit": "01.01.2005",
@@ -103,6 +114,7 @@
     },
     "mitarbeiter": [
       {
+        "mitarbeiterID": 32,
         "name": "Peter Schmitz",
         "position": "Kasse",
         "mitarbeiterSeit": "01.01.2013",
@@ -110,6 +122,7 @@
         "email": "peter.schmitz@filiale.de"
       },
       {
+        "mitarbeiterID": 761,
         "name": "Lisa Klein",
         "position": "Lager",
         "mitarbeiterSeit": "01.01.2012",
@@ -123,6 +136,7 @@
     "standort": "Frankfurt",
     "oeffnungszeiten": "Mo-Sa 9-19 Uhr",
     "manager": {
+      "mitarbeiterID": 541,
       "name": "Thomas Wagner",
       "position": "Filialleiter",
       "mitarbeiterSeit": "01.01.2007",
@@ -131,6 +145,7 @@
     },
     "mitarbeiter": [
       {
+        "mitarbeiterID": 76,
         "name": "Julia Becker",
         "position": "Kasse",
         "mitarbeiterSeit": "01.01.2014",
@@ -138,6 +153,7 @@
         "email": "julia.becker@filiale.de"
       },
       {
+        "mitarbeiterID": 71,
         "name": "Stefan Richter",
         "position": "Lager",
         "mitarbeiterSeit": "01.01.2013",
@@ -151,6 +167,7 @@
     "standort": "Düsseldorf",
     "oeffnungszeiten": "Mo-Sa 8-21 Uhr",
     "manager": {
+      "mitarbeiterID": 857,
       "name": "Sophie Schmidt",
       "position": "Filialleiter",
       "mitarbeiterSeit": "01.01.2009",
@@ -159,6 +176,7 @@
     },
     "mitarbeiter": [
       {
+        "mitarbeiterID": 31,
         "name": "Markus Hoffmann",
         "position": "Kasse",
         "mitarbeiterSeit": "01.01.2016",
@@ -166,6 +184,7 @@
         "email": "markus.hoffmann@filiale.de"
       },
       {
+        "mitarbeiterID": 829,
         "name": "Sarah Müller",
         "position": "Regale auffüllen",
         "mitarbeiterSeit": "01.01.2017",
@@ -179,6 +198,7 @@
     "standort": "Stuttgart",
     "oeffnungszeiten": "Mo-Sa 8-20 Uhr",
     "manager": {
+      "mitarbeiterID": 658,
       "name": "Michaela Weber",
       "position": "Filialleiter",
       "mitarbeiterSeit": "01.01.2010",
@@ -187,6 +207,7 @@
     },
     "mitarbeiter": [
       {
+        "mitarbeiterID": 918,
         "name": "Jan Schneider",
         "position": "Kasse",
         "mitarbeiterSeit": "01.01.2015",
@@ -194,6 +215,7 @@
         "email": "jan.schneider@filiale.de"
       },
       {
+        "mitarbeiterID": 612,
         "name": "Laura Zimmermann",
         "position": "Lager",
         "mitarbeiterSeit": "01.01.2014",
@@ -207,6 +229,7 @@
     "standort": "Leipzig",
     "oeffnungszeiten": "Mo-Sa 9-18 Uhr",
     "manager": {
+      "mitarbeiterID": 2,
       "name": "Maximilian Lehmann",
       "position": "Filialleiter",
       "mitarbeiterSeit": "01.01.2013",
@@ -215,6 +238,7 @@
     },
     "mitarbeiter": [
       {
+        "mitarbeiterID": 3,
         "name": "Anja Wagner",
         "position": "Kasse",
         "mitarbeiterSeit": "01.01.2017",
@@ -222,6 +246,7 @@
         "email": "anja.wagner@filiale.de"
       },
       {
+        "mitarbeiterID": 4,
         "name": "David Richter",
         "position": "Regale auffüllen",
         "mitarbeiterSeit": "01.01.2018",
@@ -235,6 +260,7 @@
     "standort": "Hannover",
     "oeffnungszeiten": "Mo-Sa 8-18 Uhr",
     "manager": {
+      "mitarbeiterID": 666,
       "name": "Nina Schmidt",
       "position": "Filialleiter",
       "mitarbeiterSeit": "01.01.2010",
@@ -243,6 +269,7 @@
     },
     "mitarbeiter": [
       {
+        "mitarbeiterID": 711,
         "name": "Andreas Weber",
         "position": "Kasse",
         "mitarbeiterSeit": "01.01.2012",
@@ -250,6 +277,7 @@
         "email": "andreas.weber@filiale.de"
       },
       {
+        "mitarbeiterID": 152,
         "name": "Sandra Müller",
         "position": "Lager",
         "mitarbeiterSeit": "01.01.2015",
@@ -257,6 +285,7 @@
         "email": "sandra.müller@filiale.de"
       },
       {
+        "mitarbeiterID": 591,
         "name": "Max Mustermann",
         "position": "Regale auffüllen",
         "mitarbeiterSeit": "01.01.2014",
@@ -270,6 +299,7 @@
     "standort": "Münster",
     "oeffnungszeiten": "Mo-Sa 9-21 Uhr",
     "manager": {
+      "mitarbeiterID": 918,
       "name": "Julia Becker",
       "position": "Filialleiter",
       "mitarbeiterSeit": "01.01.2008",
@@ -278,6 +308,7 @@
     },
     "mitarbeiter": [
       {
+        "mitarbeiterID": 236,
         "name": "Michaela Fischer",
         "position": "Kasse",
         "mitarbeiterSeit": "01.01.2011",
