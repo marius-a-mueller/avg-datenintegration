@@ -1,0 +1,11 @@
+id;name;position;email;hire_date;department;phone_number
+1;John Doe;CEO;john-doe@store.com;2019-01-01;1;123456789
+2;Jane Doe;CTO;jane-doe@store.com;2019-01-01;1;123456789
+3;Alice Smith;CFO;alice-smith@store.com;2019-01-01;1;123456789
+4;Bob Johnson;CIO;bob-johnson@store.com;2019-01-01;1;123456789
+5;Charlie Brown;COO;charlie-brown@store.com;2019-01-01;1;123456789
+6;David White;CDO;david-white@store.com;2019-01-01;1;123456789
+7;Eve Black;CMO;eve-black@store.com;2019-01-01;1;123456789
+8;Frank Green;CLO;frank-green@store.com;2019-01-01;1;123456789
+9;Grace Grey;CBO;grace-grey@store.com;2019-01-01;1;123456789
+10;Hank Blue;CPO;hank-blue@store.com;2019-01-01;1;123456789
