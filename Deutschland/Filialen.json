@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "filialID": 1,
     "standort": "Hamburg",
     "oeffnungszeiten": "Mo-Sa 8-18 Uhr",
     "manager": {
@@ -35,7 +35,7 @@
     ]
   },
   {
-    "id": 2,
+    "filialID": 2,
     "standort": "Berlin",
     "oeffnungszeiten": "Mo-Sa 8-23 Uhr",
     "manager": {
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "id": 3,
+    "filialID": 3,
     "standort": "München",
     "oeffnungszeiten": "Mo-Sa 9-20 Uhr",
     "manager": {
@@ -91,7 +91,7 @@
     ]
   },
   {
-    "id": 4,
+    "filialID": 4,
     "standort": "Köln",
     "oeffnungszeiten": "Mo-Sa 7-22 Uhr",
     "manager": {
@@ -119,7 +119,7 @@
     ]
   },
   {
-    "id": 5,
+    "filialID": 5,
     "standort": "Frankfurt",
     "oeffnungszeiten": "Mo-Sa 9-19 Uhr",
     "manager": {
@@ -147,7 +147,7 @@
     ]
   },
   {
-    "id": 6,
+    "filialID": 6,
     "standort": "Düsseldorf",
     "oeffnungszeiten": "Mo-Sa 8-21 Uhr",
     "manager": {
@@ -175,7 +175,7 @@
     ]
   },
   {
-    "id": 7,
+    "filialID": 7,
     "standort": "Stuttgart",
     "oeffnungszeiten": "Mo-Sa 8-20 Uhr",
     "manager": {
@@ -203,7 +203,7 @@
     ]
   },
   {
-    "id": 8,
+    "filialID": 8,
     "standort": "Leipzig",
     "oeffnungszeiten": "Mo-Sa 9-18 Uhr",
     "manager": {
@@ -231,7 +231,7 @@
     ]
   },
   {
-    "id": 9,
+    "filialID": 9,
     "standort": "Hannover",
     "oeffnungszeiten": "Mo-Sa 8-18 Uhr",
     "manager": {
@@ -266,7 +266,7 @@
     ]
   },
   {
-    "id": 10,
+    "filialID": 10,
     "standort": "Münster",
     "oeffnungszeiten": "Mo-Sa 9-21 Uhr",
     "manager": {
