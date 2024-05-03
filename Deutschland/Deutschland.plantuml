@@ -2,17 +2,18 @@
 package Deutschland {
     class Mitarbeiter {
         *mitarbeiterID: int
---
+        --
         name: string
         position: string
         mitarbeiterSeit: date
         gehalt: float
         email: string
+        *filialID: int
     }
     
     class Produkt {
         *produktID: int
---
+        --
         name: string
         kategorie: string
         preis: float
@@ -20,7 +21,7 @@ package Deutschland {
     
     class Steuersatz {
         *steuersatzID: int
---
+        --
         kategorie: string
         steuersatz: float
     }
@@ -28,13 +29,13 @@ package Deutschland {
     class ProduktVorOrt {
         *produktID: int
         *filialID: int
---
+        --
         bestand: int
     }
     
     class Filiale {
         *filialID: int
---
+        --
         standort: string
         manager: string
         oeffnungszeiten: string
