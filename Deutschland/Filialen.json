@@ -36,6 +36,20 @@
         "gehalt": 3000.0,
         "email": "gabi.yilmaz@filiale.de"
       }
+    ],
+    "produktVorOrt": [
+      {
+        "bestand": 100,
+        "produktID": 235
+      },
+      {
+        "bestand": 200,
+        "produktID": 236
+      },
+      {
+        "bestand": 300,
+        "produktID": 237
+      }
     ]
   },
   {
@@ -66,6 +80,20 @@
         "mitarbeiterSeit": "01.01.2010",
         "gehalt": 4300.0,
         "email": "franziskus.müller@filiale.de"
+      }
+    ],
+    "produktVorOrt": [
+      {
+        "bestand": 65,
+        "produktID": 237
+      },
+      {
+        "bestand": 37,
+        "produktID": 238
+      },
+      {
+        "bestand": 133,
+        "produktID": 239
       }
     ]
   },
@@ -98,6 +126,20 @@
         "gehalt": 3000.0,
         "email": "karin.fischer@filiale.de"
       }
+    ],
+    "produktVorOrt": [
+      {
+        "bestand": 69,
+        "produktID": 237
+      },
+      {
+        "bestand": 20,
+        "produktID": 239
+      },
+      {
+        "bestand": 304,
+        "produktID": 242
+      }
     ]
   },
   {
@@ -128,6 +170,20 @@
         "mitarbeiterSeit": "01.01.2012",
         "gehalt": 3100.0,
         "email": "lisa.klein@filiale.de"
+      }
+    ],
+    "produktVorOrt": [
+      {
+        "bestand": 214,
+        "produktID": 240
+      },
+      {
+        "bestand": 128,
+        "produktID": 241
+      },
+      {
+        "bestand": 74,
+        "produktID": 235
       }
     ]
   },
@@ -160,6 +216,20 @@
         "gehalt": 3200.0,
         "email": "stefan.richter@filiale.de"
       }
+    ],
+    "produktVorOrt": [
+      {
+        "bestand": 47,
+        "produktID": 236
+      },
+      {
+        "bestand": 18,
+        "produktID": 242
+      },
+      {
+        "bestand": 99,
+        "produktID": 240
+      }
     ]
   },
   {
@@ -190,6 +260,20 @@
         "mitarbeiterSeit": "01.01.2017",
         "gehalt": 3100.0,
         "email": "sarah.müller@filiale.de"
+      }
+    ],
+    "produktVorOrt": [
+      {
+        "bestand": 32,
+        "produktID": 238
+      },
+      {
+        "bestand": 98,
+        "produktID": 244
+      },
+      {
+        "bestand": 77,
+        "produktID": 237
       }
     ]
   },
@@ -222,6 +306,20 @@
         "gehalt": 3200.0,
         "email": "laura.zimmermann@filiale.de"
       }
+    ],
+    "produktVorOrt": [
+      {
+        "bestand": 87,
+        "produktID": 241
+      },
+      {
+        "bestand": 90,
+        "produktID": 235
+      },
+      {
+        "bestand": 190,
+        "produktID": 245
+      }
     ]
   },
   {
@@ -252,6 +350,20 @@
         "mitarbeiterSeit": "01.01.2018",
         "gehalt": 3100.0,
         "email": "david.richter@filiale.de"
+      }
+    ],
+    "produktVorOrt": [
+      {
+        "bestand": 56,
+        "produktID": 238
+      },
+      {
+        "bestand": 44,
+        "produktID": 243
+      },
+      {
+        "bestand": 321,
+        "produktID": 241
       }
     ]
   },
@@ -292,6 +404,20 @@
         "gehalt": 3100.0,
         "email": "max.mustermann@filiale.de"
       }
+    ],
+    "produktVorOrt": [
+      {
+        "bestand": 12,
+        "produktID": 239
+      },
+      {
+        "bestand": 40,
+        "produktID": 238
+      },
+      {
+        "bestand": 144,
+        "produktID": 240
+      }
     ]
   },
   {
@@ -314,6 +440,20 @@
         "mitarbeiterSeit": "01.01.2011",
         "gehalt": 3400.0,
         "email": "michaela.fischer@filiale.de"
+      }
+    ],
+    "produktVorOrt": [
+      {
+        "bestand": 330,
+        "produktID": 239
+      },
+      {
+        "bestand": 230,
+        "produktID": 235
+      },
+      {
+        "bestand": 34,
+        "produktID": 242
       }
     ]
   }
