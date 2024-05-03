@@ -17,6 +17,12 @@ entity Product {
   name : string
   price : float
   category : string
+}
+
+entity StoreProduct {
+  *product_id: string
+  *store_id: string
+  --
   quantity : int
 }
 
