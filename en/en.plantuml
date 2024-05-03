@@ -54,5 +54,6 @@ entity Supplier {
 Employee "n" -- "1" Store : employed-in
 Store "1" -- "1" Address : located-at
 Store "n" -- "1" Supplier : supplied-by
-Store "n" -- "n" Product : sells
+Store "1" -- "n" StoreProduct : sells
+Product "1" -- "n" StoreProduct : is
 @enduml
