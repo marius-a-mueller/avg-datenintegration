@@ -1,0 +1,11 @@
+id;name;price;category;quantity
+1;Apple;0.5;Fruit;10
+2;Banana;0.3;Fruit;5
+3;Carrot;0.2;Vegetable;20
+4;Potato;0.1;Vegetable;50
+5;Milk;1;Dairy;10
+6;Cheese;2;Dairy;5
+7;Bread;0.5;Bakery;10
+8;Cake;3;Bakery;5
+9;Water;0.2;Drinks;20
+10;Juice;1;Drinks;10

@@ -1,0 +1,11 @@
+id;name;contact_mail;phone;address_id
+1;Global Sup;info@global.com;+123456789;1
+2;Local Sup;;+987654321;2
+3;Fix;info@fix.uk;+123456789;3
+4;Foxtrot;support@foxtrot.net;+987654321;4
+5;Echo;;+123456789;5
+6;Delta;;+987654321;6
+7;Charlie;;+123456789;7
+8;Bravo;;+987654321;8
+9;Alpha;;+123456789;9
+10;Zulu;;+987654321;10
