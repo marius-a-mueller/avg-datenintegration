@@ -23,7 +23,8 @@ entity Employee {
   email : string
   hire_date : date
   department : Department
-  phone_number : string  -- Adding contact information
+  phone_number : string
+  store_id : string
 }
 
 entity Product {
@@ -33,13 +34,6 @@ entity Product {
   price : float
   category : string
   quantity : int
-}
-
-entity StoreEmployee {
-  *id : string
-  --
-  store_id : string
-  employee_id : string
 }
 
 entity Store {
