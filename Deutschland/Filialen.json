@@ -27,14 +27,6 @@
         "mitarbeiterSeit": "01.01.2011",
         "gehalt": 3050.0,
         "email": "hans.glück@filiale.de"
-      },
-      {
-        "mitarbeiterID": 162,
-        "name": "Gabi Yilmaz",
-        "position": "Regale auffüllen",
-        "mitarbeiterSeit": "01.01.2012",
-        "gehalt": 3000.0,
-        "email": "gabi.yilmaz@filiale.de"
       }
     ],
     "produktVorOrt": [
@@ -47,11 +39,6 @@
         "id": 2,
         "bestand": 200,
         "produktID": 236
-      },
-      {
-        "id": 3,
-        "bestand": 300,
-        "produktID": 237
       }
     ]
   },
