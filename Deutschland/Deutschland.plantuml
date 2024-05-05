@@ -1,8 +1,9 @@
-@startuml Deutschland
+@startuml
 package Deutschland {
     class Mitarbeiter {
         *mitarbeiterID: int
         --
+        filialID: int
         name: string
         position: string
         mitarbeiterSeit: date
